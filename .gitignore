@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & testing caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Take-home zip packages (archive artifacts)
+*.zip
+
+# Operating System & IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
